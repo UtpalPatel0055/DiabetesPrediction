@@ -48,7 +48,7 @@ jupyter notebook Bikeshare_New.ipynb
 
     For building and training the model we have used four different classifiers, namely - Gradient Boosting, Logistic Regression, Naive Bayes and Random Forest Classifier.
 
-Out of the 4 classifiers, Random Forest Classifier and Bagging Classifier had the highest accuracy score compared to the rest of the algorithms.
+    Out of the 4 classifiers, Random Forest Classifier and Bagging Classifier had the highest accuracy score compared to the rest of the algorithms.
 
 # Evaluation
 
