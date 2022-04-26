@@ -37,7 +37,7 @@
 
 # Instructions
 
-    jupyter notebook Bikeshare_New.ipynb
+    jupyter notebook Main.ipynb
 
  1. Open Terminal or Command Prompt, Enter the above line to open the jupyter notebook (Note: Both the Dataset and the Notebook has to be in the same folder)
  2. Once the Jupyter Notebook opens, you can run the Notebook and make appropriate changes.
